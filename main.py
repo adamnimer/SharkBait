@@ -1,10 +1,3 @@
-######################################################
-# Project: Project 2
-# UIN: 662842791
-# repl.it URL: https://replit.com/@CS111-Fall2021/Project-2-AdamNimer1#main.py
-
-######################################################
-
 import turtle
 import random
 
